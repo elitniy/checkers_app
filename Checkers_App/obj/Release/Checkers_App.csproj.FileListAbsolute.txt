@@ -1,0 +1,8 @@
+C:\Users\elitniy\Documents\Visual Studio 2017\Projects\Checkers_App\Checkers_App\bin\Release\Checkers_App.exe.config
+C:\Users\elitniy\Documents\Visual Studio 2017\Projects\Checkers_App\Checkers_App\bin\Release\Checkers_App.exe
+C:\Users\elitniy\Documents\Visual Studio 2017\Projects\Checkers_App\Checkers_App\bin\Release\Checkers_App.pdb
+C:\Users\elitniy\Documents\Visual Studio 2017\Projects\Checkers_App\Checkers_App\obj\Release\Checkers_App.Form1.resources
+C:\Users\elitniy\Documents\Visual Studio 2017\Projects\Checkers_App\Checkers_App\obj\Release\Checkers_App.Properties.Resources.resources
+C:\Users\elitniy\Documents\Visual Studio 2017\Projects\Checkers_App\Checkers_App\obj\Release\Checkers_App.csproj.GenerateResource.Cache
+C:\Users\elitniy\Documents\Visual Studio 2017\Projects\Checkers_App\Checkers_App\obj\Release\Checkers_App.exe
+C:\Users\elitniy\Documents\Visual Studio 2017\Projects\Checkers_App\Checkers_App\obj\Release\Checkers_App.pdb

@@ -1,0 +1,9 @@
+c:\users\elitniy\documents\visual studio 2017\Projects\Checkers_App\Checkers_App\bin\Debug\Checkers_App.exe.config
+c:\users\elitniy\documents\visual studio 2017\Projects\Checkers_App\Checkers_App\bin\Debug\Checkers_App.exe
+c:\users\elitniy\documents\visual studio 2017\Projects\Checkers_App\Checkers_App\bin\Debug\Checkers_App.pdb
+c:\users\elitniy\documents\visual studio 2017\Projects\Checkers_App\Checkers_App\obj\Debug\Checkers_App.csprojResolveAssemblyReference.cache
+c:\users\elitniy\documents\visual studio 2017\Projects\Checkers_App\Checkers_App\obj\Debug\Checkers_App.Form1.resources
+c:\users\elitniy\documents\visual studio 2017\Projects\Checkers_App\Checkers_App\obj\Debug\Checkers_App.Properties.Resources.resources
+c:\users\elitniy\documents\visual studio 2017\Projects\Checkers_App\Checkers_App\obj\Debug\Checkers_App.csproj.GenerateResource.Cache
+c:\users\elitniy\documents\visual studio 2017\Projects\Checkers_App\Checkers_App\obj\Debug\Checkers_App.exe
+c:\users\elitniy\documents\visual studio 2017\Projects\Checkers_App\Checkers_App\obj\Debug\Checkers_App.pdb
